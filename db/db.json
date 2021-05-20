@@ -1,0 +1,174 @@
+{
+  "hareketler": [
+    {
+      "id": 1,
+      "bolumId": 2,
+      "hareketAdi": "Lat Pull Down",
+      "hareketUrl": "https://i.pinimg.com/originals/31/77/c6/3177c6d53ff9fa54983375e724350c6e.gif"
+    },
+    {
+      "id": 2,
+      "bolumId": 1,
+      "hareketAdi": "Bench Press",
+      "hareketUrl": "https://www.gymvisual.com/img/p/1/7/5/5/2/17552.gif"
+    },
+    {
+      "id": 3,
+      "bolumId": 3,
+      "hareketAdi": "Shoulder Press",
+      "hareketUrl": "https://thumbs.gfycat.com/ExcitableOblongFluke-max-1mb.gif"
+    },
+    {
+      "id": 4,
+      "bolumId": 4,
+      "hareketAdi": "Triceps Push Down",
+      "hareketUrl": "https://weighteasyloss.com/wp-content/uploads/2019/02/Cable-Triceps-Pushdown.gif"
+    },
+    {
+      "id": 5,
+      "bolumId": 4,
+      "hareketAdi": "Barbell Curl",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/00311301-Barbell-Curl_Upper-Arms_360.gif"
+    },
+    {
+      "id": 6,
+      "bolumId": 7,
+      "hareketAdi": "Leg Press",
+      "hareketUrl": "https://www.gymvisual.com/img/p/5/4/6/3/5463.gif"
+    },
+    {
+      "id": 7,
+      "bolumId": 6,
+      "hareketAdi": "Plank",
+      "hareketUrl": "https://i.ytimg.com/vi/aqzpeq7WxlE/maxresdefault.jpg"
+    },
+{
+      "id": 8,
+      "bolumId": 1,
+      "hareketAdi": "Machine Chest Press",
+      "hareketUrl": "https://2.bp.blogspot.com/-LOXt6Jybbes/W1Viu_wpEGI/AAAAAAAAS2s/8-TP0JzfTmMybwzRjIe43bbNs5vJZiIHACLcBGAs/s1600/machine%2Bchest%2Bpress.gif"
+    },
+{
+      "id": 9,
+      "bolumId": 1,
+      "hareketAdi": "Machine Fly",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/05961301-Lever-Seated-Fly_Chest_360.gif"
+    },
+{
+      "id": 10,
+      "bolumId": 1,
+      "hareketAdi": "Incline Bench Press",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/00471301-Barbell-Incline-Bench-Press_Chest_360.gif"
+    },
+{
+      "id": 11,
+      "bolumId": 1,
+      "hareketAdi": "Dumbell Fly",
+      "hareketUrl": "https://i0.wp.com/nileease.com/wp-content/uploads/2020/12/222db7ec830c12e66923820f0be774e0.gif?fit=180%2C180&ssl=1"
+    },
+{
+      "id": 12,
+      "bolumId": 1,
+      "hareketAdi": "Incline Dumbell Fly",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/03191301-Dumbbell-Incline-Fly_Chest-FIX_360.gif"
+    },
+{
+      "id": 13,
+      "bolumId": 1,
+      "hareketAdi": "Cable Crossover",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/01881301-Cable-Middle-Fly_Chest_360-1.gif"
+    },
+{
+      "id": 14,
+      "bolumId": 4,
+      "hareketAdi": "Dumbell Kickbacks",
+      "hareketUrl": "https://i0.wp.com/myfitfreak.com/wp-content/uploads/2020/08/dumbbell-kickback-gif-myfitfreak.gif?resize=360%2C360&ssl=1"
+    },
+{
+      "id": 15,
+      "bolumId": 7,
+      "hareketAdi": "Leg Curl",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/05861301-Lever-Lying-Leg-Curl_Thighs_360.gif"
+    },
+{
+      "id": 16,
+      "bolumId": 7,
+      "hareketAdi": "Leg Extension",
+      "hareketUrl": "https://i.pinimg.com/originals/2f/88/8a/2f888a80d3e49f5e31ee372116437540.gif"
+    },
+{
+      "id": 17,
+      "bolumId": 7,
+      "hareketAdi": "Barbell Lunges",
+      "hareketUrl": "https://www.fitnessandbeast.com/wp-content/uploads/2016/02/Barbell-Lunge-Muscle.png.webp"
+    },
+{
+      "id": 18,
+      "bolumId": 1,
+      "hareketAdi": "Dumbell Pullover",
+      "hareketUrl": "https://i.pinimg.com/originals/01/72/da/0172daabe1c9103ceeecb36b7f804163.gif"
+    },
+{
+      "id": 19,
+      "bolumId": 2,
+      "hareketAdi": "Bent Over Row",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/02921301-Dumbbell-Bent-over-Row_back_Back_360.gif"
+    },
+{
+      "id": 20,
+      "bolumId": 4,
+      "hareketAdi": "Skull Crusher",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/00351301-Barbell-Decline-Close-Grip-To-Skull-Press_Upper-Arms_360.gif"
+    },
+{
+      "id": 21,
+      "bolumId": 2,
+      "hareketAdi": "Seated Cable Row",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/Cable-Straight-Back-Seated-Row_Back_360.gif"
+    },
+{
+      "id": 22,
+      "bolumId": 2,
+      "hareketAdi": "Pull Up",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/09701301-Band-assisted-pull-up_Back_360.gif"
+    },
+{
+      "id": 23,
+      "bolumId": 4,
+      "hareketAdi": "Incline Triceps Extension",
+      "hareketUrl": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/04491301-EZ-Barbell-Incline-Triceps-Extension_Upper-Arms_360.gif"
+    }
+  ],
+  "bolumler": [
+    {
+      "id": 1,
+      "bolumAdi": "Chest",
+      "bolumUrl": "https://i.resmim.net/i/chest_strong_muscle_exercise_body_parts_medical_sports_man_fitness_anatomy-256.png"
+    },
+    {
+      "id": 2,
+      "bolumAdi": "Back",
+      "bolumUrl": "https://i.resmim.net/i/Back_strong_muscle_exercise_body_parts_medical_sports_man_fitness_anatomy-256.png"
+    },
+    {
+      "id": 3,
+      "bolumAdi": "Shoulder",
+     "bolumUrl": "https://i.resmim.net/i/18_-256.png"
+    },
+    {
+      "id": 4,
+      "bolumAdi": "Arm",
+     "bolumUrl": "https://i.resmim.net/i/biceps_strong_muscle_exercise_arm_power_fitness-256.png"
+    },
+    {
+      "id": 6,
+      "bolumAdi": "Abdomen",
+      "bolumUrl": "https://i.resmim.net/i/17_-256.png"
+    },
+    {
+      "id": 7,
+      "bolumAdi": "Leg",
+      "bolumUrl": "https://i.resmim.net/i/body_part_anatomy_leg_muscle_foot-256.png"
+    }
+  ]
+}
